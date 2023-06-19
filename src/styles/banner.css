@@ -1,0 +1,30 @@
+.banner {
+  background-color: #1d1f25;
+  height: 180px;
+}
+.heading {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: white;
+}
+.form-control,
+.input-group-text {
+  background-color: #282c38;
+  color: #757b8c;
+  border-width: 0;
+}
+input::placeholder {
+  color: rgb(220, 245, 225);
+}
+.views {
+  background-color: #605f5d;
+  margin: 0 5px;
+  padding: 2px 6px;
+  border-radius: 20%;
+}
+.views.active {
+  background-color: #e4a72e;
+}

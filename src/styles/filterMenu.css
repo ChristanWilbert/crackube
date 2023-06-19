@@ -1,0 +1,15 @@
+.filters button {
+  border-width: 0;
+  border-radius: 25px;
+  padding: 6px 20px;
+  margin: 5px 0;
+  background-color: #1d1f25;
+  color: rgba(255, 255, 255, 0.6);
+}
+.filters button:hover {
+  color: #ffbb29;
+  transition-duration: 0.5s;
+}
+.filters {
+  background-color: black;
+}

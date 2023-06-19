@@ -1,0 +1,39 @@
+.card-title,
+.card-text {
+  text-align: left;
+  color: white;
+}
+.card-text {
+  font-size: small;
+  color: #b5b5be;
+}
+.category {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  letter-spacing: 8px;
+
+  color: #ffbb29;
+}
+.card {
+  background-color: #1d1f25;
+}
+.card-body {
+  padding-top: 3px;
+}
+.card-body .custButton {
+  text-decoration: none;
+  text-align: left;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #ffbb29;
+}

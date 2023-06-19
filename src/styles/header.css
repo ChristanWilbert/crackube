@@ -1,0 +1,33 @@
+.navbar-brand {
+  position: relative;
+  width: 193px;
+  height: 0px;
+  left: 30px;
+  top: -14px;
+  margin-right: 30px;
+
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+
+  color: #ffbb29;
+}
+.navbar .navbar-nav > li > a {
+  margin: 15px 10px;
+  color: white;
+}
+.navbar .navbar-nav > li > a:hover {
+  color: #ffbb29;
+  transition-duration: 0.5s;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  /* color: var(--bs-navbar-active-color); */
+
+  color: #ffbb29;
+}
+.navbar {
+  background-color: #1d1f25;
+}
